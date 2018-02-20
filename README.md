@@ -110,6 +110,18 @@
 1. [Storyboard Tutorial](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
 2. [Folding Cell](https://github.com/Ramotion/folding-cell)
 
+### Style
+1. [Ray Wenderlich style guide](https://github.com/raywenderlich/swift-style-guide)
+2. [Style Guide](https://github.com/linkedin/swift-style-guide)
+3. [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+4. [Swift Tips & Tricks](https://github.com/JohnSundell/SwiftTips)
+5. [iOS Best Practices](https://github.com/bakkenbaeck/iOS-handbook/blob/master/BEST_PRACTICES.md#networking)
+6. [SafeArea Layout](https://useyourloaf.com/blog/safe-area-layout-guide/)
+7. [CALayer](https://marcosantadev.com/calayer-auto-layout-swift/)
+8. []()
+9. []()
+10. []()
+
 ### URLSession
 1. [URLSession with JSON](http://mrgott.com/swift-programing/33-rest-api-in-swift-4-using-urlsession-and-jsondecode)
 2. [URL Loading System](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html#//apple_ref/doc/uid/10000165i)
@@ -150,10 +162,6 @@
 
 ### UIView
 1. [UIView Programmatically](https://medium.com/@hooliooo/yet-another-ios-post-about-creating-views-programmatically-9249a7ab1e93)
-2. []()
-3. []()
-4. []()
-5. []()
 
 ### UIStackView
 1. [Add Views in UIStackView](http://ioscake.com/add-views-in-uistackview-programmatically.html)
