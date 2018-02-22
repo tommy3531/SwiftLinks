@@ -49,6 +49,12 @@
 11. [Medium Part One](https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a)
 12. [Cake pattern building Layers](http://acqui-hire.me/dependency-injection-with-the-cake-pattern-in-swift/)
 
+### Debug
+1. []()
+2. []()
+3. [Debugging Guide](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
+4. [LLDB CheatSheet](http://lldb.llvm.org/lldb-gdb.html)
+
 ### Good Practices
 1. [IOS Good Practices](https://github.com/futurice/ios-good-practices)
 2. [IOS playbook](https://github.com/bakkenbaeck/iOS-handbook)
@@ -118,9 +124,16 @@
 5. [iOS Best Practices](https://github.com/bakkenbaeck/iOS-handbook/blob/master/BEST_PRACTICES.md#networking)
 6. [SafeArea Layout](https://useyourloaf.com/blog/safe-area-layout-guide/)
 7. [CALayer](https://marcosantadev.com/calayer-auto-layout-swift/)
-8. []()
-9. []()
+8. [iOS Style Guide](https://guides.codepath.com/ios)
+9. [Swift Tips and Tricks](https://github.com/johnsundell/swifttips)
 10. []()
+
+### Testing
+1. [UI Testing](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
+2. []()
+3. []()
+4. []()
+5. []()
 
 ### URLSession
 1. [URLSession with JSON](http://mrgott.com/swift-programing/33-rest-api-in-swift-4-using-urlsession-and-jsondecode)
@@ -159,9 +172,12 @@
 3. [Medium UIStackView](https://medium.com/the-traveled-ios-developers-guide/uistackview-a-field-guide-c1b64f098f6d)
 4. [Button Generator](https://makeapppie.com/2015/11/11/how-to-add-stack-views-programmatically-and-almost-avoid-autolayout/)
 5. [StackView Configuration Options](http://www.techotopia.com/index.php/Working_with_the_iOS_9_Stack_View_Class)
+6. [Brandon UIStackView](https://www.raizlabs.com/dev/2016/04/uistackview/)
 
 ### UIView
 1. [UIView Programmatically](https://medium.com/@hooliooo/yet-another-ios-post-about-creating-views-programmatically-9249a7ab1e93)
+2. [UIView Custom View](https://github.com/codepath/ios_guides/wiki/Custom-Views-Quickstart)
+3. [Custom Views](https://github.com/codepath/ios_guides/wiki/Custom-Views)
 
 ### UIStackView
 1. [Add Views in UIStackView](http://ioscake.com/add-views-in-uistackview-programmatically.html)
