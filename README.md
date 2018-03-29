@@ -2,6 +2,9 @@
 
 * = Great Tutorial!
 
+### Awesome Articles
+1. [Mistakes New Programmers Make](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+
 ### Animations
 1. [Animations](http://jamesonquave.com/blog/category/swift/)
 2. [Animated Corners](https://useyourloaf.com/blog/masked-and-animated-corners/)
