@@ -147,6 +147,9 @@
 19. [Network guide](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)
 20. [Networking in Swift](http://ilya.puchka.me/networking-in-swift/)
 
+### Property Observers
+1. [Bob is Awesome *](https://learnswiftwithbob.com/course/object-oriented-swift/property-observers.html)
+
 ### Snippets
 1. [Snippets](https://github.com/hyperoslo/SwiftSnippets)
 
