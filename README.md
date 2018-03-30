@@ -81,6 +81,10 @@
 ### Dynamic Layouts
 1. [Dynamic Layouts](https://medium.com/swift-programming/dynamic-layouts-in-swift-b56cf8049b08)
 
+### Enum
+1. [Enum](https://academy.realm.io/posts/swift-enums-pattern-matching-generics/)
+2. [Advanced Enum](https://appventure.me/2015/10/17/advanced-practical-enum-examples/)
+
 ### Error Handling
 1. [Assertions](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
 2. [Right Way to Final In Swift](https://www.swiftbysundell.com/posts/picking-the-right-way-of-failing-in-swift)
@@ -163,6 +167,7 @@
 7. [CALayer](https://marcosantadev.com/calayer-auto-layout-swift/)
 8. [iOS Style Guide](https://guides.codepath.com/ios)
 9. [Swift Tips and Tricks](https://github.com/johnsundell/swifttips)
+10. [Design](https://www.theseus.fi/bitstream/handle/10024/120946/Richard%20Topchii%20-%20Bachelor%20Thesis_final.pdf?sequence=1&isAllowed=y)
 
 ### Testing
 1. [UI Testing](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
