@@ -2,12 +2,18 @@
 
 * = Great Tutorial!
 
-### Awesome Articles
-1. [Mistakes New Programmers Make](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+### Adapter Pattern
+1. [Adapter Pattern](https://medium.com/jeremy-codes/adapter-pattern-in-swift-7332e178f112)
+2. [Difference Between Adapter and Wrapper](http://www.thecodedself.com/The-Difference-Between-an-Adapter-and-a-Wrapper/)
 
 ### Animations
 1. [Animations](http://jamesonquave.com/blog/category/swift/)
 2. [Animated Corners](https://useyourloaf.com/blog/masked-and-animated-corners/)
+
+### Apple Documentation
+1. [The Role of View Controllers](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/)
+2. [StackView](https://developer.apple.com/documentation/uikit/uistackview)
+3. [iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 
 ### Async
 1. [Comparative Async Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
@@ -17,12 +23,11 @@
 5. [Caching NSURLSession](https://blackpixel.com/writing/2012/05/caching-and-nsurlconnection.html)
 6. [Prevent NSURLConnection Cache Issues](https://codewithchris.com/preventing-nsurlconnection-cache-issues/)
 
-### Apple Documentation
-1. [The Role of View Controllers](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/)
-
-
 ### ARKit
 1. [ARKit Tutorial](https://github.com/olucurious/Awesome-ARKit)
+
+### Awesome Articles
+1. [Mistakes New Programmers Make](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
 ### AutoLayout
 1. [AutoLayout UI Examples](https://hackernoon.com/auto-layout-ui-examples-2517c7efca25)
@@ -49,8 +54,11 @@
 ### Console
 1. [Swift Console Wrapper](https://github.com/vapor/console)
 
-## Constraints
+### Constraints
 1. [Perfecting Simple Constraints](https://medium.com/@swiftbot_54459/swift-4-perfecting-simple-constraints-681767c737a1)
+
+### Data Binding
+1. [Binding](http://five.agency/solving-the-binding-problem-with-swift/)
 
 ### Dependency Injection
 1. [Factory](https://www.swiftbysundell.com/posts/dependency-injection-using-factories-in-swift)
@@ -67,21 +75,23 @@
 12. [Cake pattern building Layers](http://acqui-hire.me/dependency-injection-with-the-cake-pattern-in-swift/)
 
 ### Debug
-1. []()
-2. []()
-3. [Debugging Guide](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
-4. [LLDB CheatSheet](http://lldb.llvm.org/lldb-gdb.html)
+1. [Debugging Guide](https://medium.com/flawless-app-stories/debugging-swift-code-with-lldb-b30c5cf2fd49)
+2. [LLDB CheatSheet](http://lldb.llvm.org/lldb-gdb.html)
 
 ### Dynamic Layouts
 1. [Dynamic Layouts](https://medium.com/swift-programming/dynamic-layouts-in-swift-b56cf8049b08)
 
+### Error Handling
+1. [Assertions](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
+2. [Right Way to Final In Swift](https://www.swiftbysundell.com/posts/picking-the-right-way-of-failing-in-swift)
+3. [Error](https://www.swiftbysundell.com/posts/providing-a-unified-swift-error-api)
+
+### Grand Centeral Dispatch
+1. [Sundell DeepDive GCD *](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
+
 ### Good Practices
 1. [IOS Good Practices](https://github.com/futurice/ios-good-practices)
 2. [IOS playbook](https://github.com/bakkenbaeck/iOS-handbook)
-
-### Initializer
-1. [Initialization and Initializer Delegation](https://code.tutsplus.com/tutorials/swift-from-scratch-initialization-and-initializer-delegation--cms-23538)
-2. []()
 
 ### iOS Guides
 1. [Awesome UI Guide](https://guides.codepath.com/ios)
@@ -94,6 +104,9 @@
 ### File
 1. [swift GZip](https://github.com/vapor-community/gzip-provider)
 
+### Initializer
+1. [Initialization and Initializer Delegation](https://code.tutsplus.com/tutorials/swift-from-scratch-initialization-and-initializer-delegation--cms-23538)
+
 ### JSON
 1. [Decoder and Decodable](https://swiftunboxed.com/stdlib/json-decoder-decodable/)
 2. [JSON Stringify](https://medium.com/swift-programming/4-json-in-swift-144bf5f88ce4)
@@ -104,7 +117,6 @@
 7. [JSON parse from URL](https://www.simplifiedios.net/swift-json-tutorial/)
 8. [Networking JSON](https://medium.com/@sdrzn/networking-and-persistence-with-json-in-swift-4-c400ecab402d)
 9. [JSONSerialization](https://stay2swift.blogspot.com/2017/06/json-viewwithtag-cri-api.html)
-10. []()
 
 ### Logging
 1. [Logging](https://github.com/SwiftyBeaver/SwiftyBeaver-Vapor)
@@ -151,14 +163,9 @@
 7. [CALayer](https://marcosantadev.com/calayer-auto-layout-swift/)
 8. [iOS Style Guide](https://guides.codepath.com/ios)
 9. [Swift Tips and Tricks](https://github.com/johnsundell/swifttips)
-10. []()
 
 ### Testing
 1. [UI Testing](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet)
-2. []()
-3. []()
-4. []()
-5. []()
 
 ### URLSession
 1. [URLSession with JSON](http://mrgott.com/swift-programing/33-rest-api-in-swift-4-using-urlsession-and-jsondecode)
@@ -167,17 +174,16 @@
 ### RXSwift
 1. [RxSwift](https://github.com/ReactiveX/RxSwift)
 
-## UI
+### UI
 1. [User Interface in Code](https://developer.xamarin.com/guides/ios/application_fundamentals/ios_code_only/)
 
-## UINavigationController
+### UINavigationController
 1. [Navigation Controller (*GITHUB)](https://github.com/codepath/ios_guides/wiki/Navigation-Controller)
 
-## UICollectionView
+### UICollectionView
 1. [Creating a Collection View](https://medium.com/yay-its-erica/creating-a-collection-view-swift-3-77da2898bb7c)
 
 ### UITableView
-
 1. [Yelp UITableView](https://engineeringblog.yelp.com/2015/06/advanced-uitableviews-made-simple-yltableview.html)
 2. [Flexible TableView Controller](http://holko.pl/2016/01/05/typed-table-view-controller/)
 3. [Populate TableView](https://www.codementor.io/brettr/two-basic-ways-to-populate-your-uitableview-du107rsyx)
@@ -241,7 +247,7 @@
 2. [Detail Explaination of ViewController](http://iosbrain.com/blog/2017/02/19/swift-3-segues-unwind-segues-storyboards-and-viewnavigation-controllers/)
 3. [StateFul ViewControllers](https://github.com/aschuch/StatefulViewController)
 
-## WebService
+### WebService
 1. [Scalable API Client](https://medium.com/makingtuenti/writing-a-scalable-api-client-in-swift-4-b3c6f7f3f3fb)
 2. [API Client in Swift](http://kean.github.io/post/api-client)
 3. [Client Server Logic](https://www.toptal.com/ios/isolate-client-server-interaction-logic-ios)
@@ -251,6 +257,9 @@
 ### WebSockets
 1. [Vapor Sockets](https://github.com/vapor/sockets)
 2. [Vapor Engine](https://github.com/vapor/engine)
+
+### WebSites
+1. [John Sundell](https://www.swiftbysundell.com/categories/)
 
 ### Cool Respositories
 1. [Swift Server Side](https://github.com/Awesome-Server-Side-Swift/TheList)
