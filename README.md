@@ -15,6 +15,11 @@
 2. [StackView](https://developer.apple.com/documentation/uikit/uistackview)
 3. [iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 
+### AppDelegate
+1. [Service-Oriented AppDelegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd)
+2. []()
+3. []()
+
 ### Async
 1. [Comparative Async Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/)
 2. [Reducers](http://chris.eidhof.nl/post/reducers/)
@@ -50,6 +55,9 @@
 3. [Closure and Caputuring Values in Swift](http://www.codingexplorer.com/closures-capturing-values-swift/)
 4. [Swift Closure](https://medium.com/swift-programming/swift-closures-everyday-gems-part-2-of-2-8607157b11c5)
 5. [Closure in API design](https://academy.realm.io/posts/closures-api-design/)
+
+### Computed Properties
+1. [Computed Properties and Property Observers](https://medium.com/@rguruonline/swift-computed-properties-and-property-observers-56374675c9e2)
 
 ### Console
 1. [Swift Console Wrapper](https://github.com/vapor/console)
@@ -89,6 +97,9 @@
 1. [Assertions](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift)
 2. [Right Way to Final In Swift](https://www.swiftbysundell.com/posts/picking-the-right-way-of-failing-in-swift)
 3. [Error](https://www.swiftbysundell.com/posts/providing-a-unified-swift-error-api)
+
+### FlowControllers
+1. [FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/)
 
 ### Grand Centeral Dispatch
 1. [Sundell DeepDive GCD *](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
@@ -147,8 +158,20 @@
 19. [Network guide](https://medium.com/flawless-app-stories/the-complete-guide-to-network-unit-testing-in-swift-db8b3ee2c327)
 20. [Networking in Swift](http://ilya.puchka.me/networking-in-swift/)
 
+### MVC
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+
 ### Property Observers
 1. [Bob is Awesome *](https://learnswiftwithbob.com/course/object-oriented-swift/property-observers.html)
+2. [didSet and willSet](https://medium.com/@ezeokeonyekachi_84156/property-observers-didset-and-willset-in-swift-4-c3730f26b1e9)
+
+### Routing
+1. [URL Routing with Compass](https://github.com/onmyway133/blog/issues/110)
+2. [Flexible Routing](https://medium.com/rosberryapps/the-flexible-routing-approach-in-an-ios-app-eb4b05aa7f52)
 
 ### Snippets
 1. [Snippets](https://github.com/hyperoslo/SwiftSnippets)
